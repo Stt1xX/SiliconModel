@@ -1,0 +1,6 @@
+int k = 5
+int t = 2
+if (k > 3) {
+    t = t + 2
+}
+int m = t
